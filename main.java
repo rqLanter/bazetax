@@ -6,7 +6,7 @@ import java.util.*; //импортируем коллекции, такие ка
 
 public class TaxA {
     public static void main(String[] args) {
-        Path folderPath = Paths.get("/home/mikhail/IdeaProjects/BD/learningfiles"); // Указываем путь к папке с файлами
+        Path folderPath = Paths.get(""); // УКАЖИТЕ ПУТЬ К ПАПКЕ С ФАЙЛАМИ
         Map<String, Double> regionTaxSum = new HashMap<>(); // Карта для хранения сумм налогов по регионам (ключ - код региона, значение - сумма)
 
         try {
