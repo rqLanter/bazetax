@@ -23,7 +23,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ ваше-имя/TaxA.git
+   git clone https://github.com/ ваше-имя/bazetax.git
    ```
 2. Не забудьте изменить путь к файлам в main.
 
